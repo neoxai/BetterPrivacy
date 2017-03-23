@@ -14,4 +14,6 @@ choco install sourcetree -y
 choco install visualstudiocode -y
 choco install visualstudio2015community -y
 
+choco install ngrok.portable -y
+
 
